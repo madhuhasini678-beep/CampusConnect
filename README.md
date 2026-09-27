@@ -1,4 +1,7 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/03f5ee1c-48dc-4e91-9053-a0a403c70387" /># CampusConnect 🎓
+## 🔗 Live Demo
+
+[Open CampusConnect](https://campus-connect-rosy-nine.vercel.app/)
 
 CampusConnect is a modern student campus hub built with React and Vite.
 
