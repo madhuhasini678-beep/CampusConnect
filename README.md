@@ -46,3 +46,8 @@ src/
 ├── App.jsx
 ├── index.css
 └── main.jsx
+## 📸 Screenshots
+
+### Dashboard
+
+![CampusConnect Dashboard](dashboard.png)
