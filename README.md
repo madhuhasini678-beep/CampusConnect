@@ -1,4 +1,4 @@
-# CampusConnect 🎓
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/03f5ee1c-48dc-4e91-9053-a0a403c70387" /># CampusConnect 🎓
 
 CampusConnect is a modern student campus hub built with React and Vite.
 
@@ -51,3 +51,7 @@ src/
 ### Dashboard
 
 ![CampusConnect Dashboard](dashboard.png)
+### Schedule
+![CampusConnect Schedule](schedule.png)
+###Profile
+![CampusConnect Profile](profile.png)
